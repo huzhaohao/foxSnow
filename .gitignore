@@ -1,2 +1,16 @@
+
+xcuserdata/
+.gitignore
+.DS_Store
+
 ## Other
 *.xcuserstate
+
+# CocoaPods
+#
+Pods/
+
+# pod install 自动生成 xcworkspace
+*.xcworkspace
+Podfile.lock
+Podfile
